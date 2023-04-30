@@ -13,7 +13,7 @@ mycursor = mydb.cursor()
 
 
 root = tk.Tk()
-root.title("Database GUI")
+root.title("Housing_colony_database")
 
 
 mycursor.execute("SHOW TABLES")
