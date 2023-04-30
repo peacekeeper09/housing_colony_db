@@ -6,6 +6,7 @@
 ![image](https://user-images.githubusercontent.com/80287027/235371450-60a00e7b-e9a5-4249-ab51-86e52c358b84.png)
 
 ## options
+You will get to choose the tables that you wanna see through a drop down menu.
 ![image](https://user-images.githubusercontent.com/80287027/235371473-1524efe3-6c4c-43c8-bf0a-9351ebf1dfdf.png)
 
 ## tables
