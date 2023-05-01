@@ -3,7 +3,8 @@
 # How to run this?
 
 - You must have MySQL Workbench installed on your system. Hop into [here](https://dev.mysql.com/downloads/workbench/) for downloading it.
-- You must have python installed on your system.
+- You must have python installed on your system. Hop into [here](https://www.python.org/downloads/) for downloading it.
+- You must have a nice text editor to run the python code, I suggest you to have Visual Studio Code. Hope into [here](https://code.visualstudio.com/download) for downloading it.
 
 
 # Screenshots 
