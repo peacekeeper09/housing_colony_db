@@ -2,7 +2,7 @@
 
 # How to run this?
 
-You must have MySQL Workbench installed in your system. Hop into (here)https://dev.mysql.com/downloads/workbench/] for downloading it.
+You must have MySQL Workbench installed in your system. Hop into [here](https://dev.mysql.com/downloads/workbench/) for downloading it.
 
 # Screenshots 
 
