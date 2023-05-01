@@ -11,6 +11,10 @@
 Starting off with, open MySQL workbench, copy paste all of [these](https://github.com/peacekeeper09/housing_colony_db/blob/main/housing_colony.sql) like in screenshot below.
 ![image](https://user-images.githubusercontent.com/80287027/235535411-1736f2c7-e540-4e35-8d23-d12b0aae4d5e.png)
 
+Now, how to run these? hold Ctrl + A and click on execute the selected portion of script. You can refer to the screenshot for more in depth understanding.
+![image](https://user-images.githubusercontent.com/80287027/235536382-44d61572-c8d0-48fb-8f72-f40dee4e6e34.png)
+![image](https://user-images.githubusercontent.com/80287027/235536781-2b52c2ff-308a-4bfa-9d92-fcb857b0bf73.png)
+
 
 
 
