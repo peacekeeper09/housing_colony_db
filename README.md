@@ -6,6 +6,13 @@
 - You must have python installed on your system. Hop into [here](https://www.python.org/downloads/) for downloading it.
 - You must have a nice text editor to run the python code, I suggest you to have Visual Studio Code. Hope into [here](https://code.visualstudio.com/download) for downloading it.
 
+# Execution
+
+Starting off, open MySQL workbench, copy paste all of [these](https://github.com/peacekeeper09/housing_colony_db/blob/main/housing_colony.sql) like in screenshot below.
+![image](https://user-images.githubusercontent.com/80287027/235535411-1736f2c7-e540-4e35-8d23-d12b0aae4d5e.png)
+
+
+
 
 # Screenshots 
 
