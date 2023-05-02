@@ -15,6 +15,8 @@ Now, how to run these? hold Ctrl + A and click on execute the selected portion o
 ![image](https://user-images.githubusercontent.com/80287027/235536382-44d61572-c8d0-48fb-8f72-f40dee4e6e34.png)
 ![image](https://user-images.githubusercontent.com/80287027/235536781-2b52c2ff-308a-4bfa-9d92-fcb857b0bf73.png)
 
+After setting up the database, open Visual Studio Code and copy paste all of [these](https://github.com/peacekeeper09/housing_colony_db/blob/main/main_deck.py) like in screenshot below and also make sure to add your credintals like host, user, password and database name.
+![image](https://user-images.githubusercontent.com/80287027/235696980-89cb60a3-b908-4dff-bc87-a49516898e00.png)
 
 
 
