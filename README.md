@@ -17,10 +17,10 @@
 
 ## After setting up the database, open Visual Studio Code and copy paste all of [these](https://github.com/peacekeeper09/housing_colony_db/blob/main/main_deck.py) like in screenshot below and also make sure to add your credintals like host, user, password and database name.
 ![image](https://user-images.githubusercontent.com/80287027/235696980-89cb60a3-b908-4dff-bc87-a49516898e00.png)
+## After doing the above mentioned steps, press ctrl+F5 or simply debug the main_deck.py. 
 
 
-
-# Screenshots 
+# Screenshots of results 
 
 ![image](https://user-images.githubusercontent.com/80287027/235371450-60a00e7b-e9a5-4249-ab51-86e52c358b84.png)
 
